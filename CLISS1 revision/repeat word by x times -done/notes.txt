@@ -1,0 +1,6 @@
+! Task is to repeat hello/any word x amount of times. !
+
+
+Things you will need:
+Would like to have an insert bar that allows you to type in the number.
+And a button to compute that number.

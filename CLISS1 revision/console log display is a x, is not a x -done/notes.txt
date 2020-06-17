@@ -1,0 +1,7 @@
+The task is to display numbers from ___ to ___
+and have a message next to them to say this is a fiver
+/ this is not a fiver.
+
+Example:
+Write a program that will display in the HTML console all integer numbers between 200 and 300 and will put the text “Here is a fiver: ” 
+in front of the numbers that are divisible by 5
